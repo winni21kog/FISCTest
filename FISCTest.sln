@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FISCTest", "FISCTest\FISCTest.csproj", "{3D2BB9C8-FEA4-4255-8019-7B282B644362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FOCASPay", "FOCASPay\FOCASPay.csproj", "{1C110758-DA1F-49D1-BAD2-E07C30940383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2BB9C8-FEA4-4255-8019-7B282B644362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2BB9C8-FEA4-4255-8019-7B282B644362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2BB9C8-FEA4-4255-8019-7B282B644362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2BB9C8-FEA4-4255-8019-7B282B644362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C110758-DA1F-49D1-BAD2-E07C30940383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C110758-DA1F-49D1-BAD2-E07C30940383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C110758-DA1F-49D1-BAD2-E07C30940383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C110758-DA1F-49D1-BAD2-E07C30940383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68AF3704-2206-48B8-9A8E-6A3A7CFDBB83}
+	EndGlobalSection
+EndGlobal
